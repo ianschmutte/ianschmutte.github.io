@@ -6,7 +6,7 @@ author_profile: true
 ---
 Anything?
 
- <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+ <a href="{{author.googlescholar}}">my Google Scholar profile</a>.
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
