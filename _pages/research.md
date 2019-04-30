@@ -7,6 +7,7 @@ author_profile: true
 Anything?
 
 [my Google Scholar profile]({{ author.googlescholar }})
+[also my GS profile](http://scholar.google.com/citations?user=mwB4cQoAAAAJ)
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{ author.googlescholar }}">my Google Scholar profile</a>.</u>
