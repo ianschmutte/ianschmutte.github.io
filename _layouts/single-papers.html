@@ -18,30 +18,30 @@ layout: default
   {% include sidebar.html %}
 
             <header>
-                <h1>{{ post.title }}</h1>
+                <h1>{{ page.title }}</h1>
             </header>
         
             <table border="0" align="center">
                 <tr>
                     <td width="350">
                         <div align="left">
-                            {{ post.citation }}
+                            {{ page.citation }}
         
                             <p><strong>Resources</strong></p>
                             <ul>
-                                <li><a href={{ post.paperurl }} target="_blank" />Published
+                                <li><a href={{ page.paperurl }} target="_blank" />Published
                                     version</a></li>
-                                <li><a href={{ post.preprinturl }} target="_blank" />Pre-print manuscript</a>
+                                <li><a href={{ page.preprinturl }} target="_blank" />Pre-print manuscript</a>
                                 </li>
-                                <li><a href={{ post.archiveurl }} />Replication
+                                <li><a href={{ page.archiveurl }} />Replication
                                     materials</a></li>
-                                <li><a href={{ post.bibtexurl }} target="_blank" />BibTeX</a></li>
+                                <li><a href={{ page.bibtexurl }} target="_blank" />BibTeX</a></li>
                             </ul>
                     </td>
         
                     <td width=350>
                         <p>
-                            <img src={{ post.picloc }} alt={{ post.picalt }} width=350 />
+                            <img src={{ page.picloc }} alt={{ page.picalt }} width=350 />
                         </p>
                     </td>
                 </tr>
