@@ -1,17 +1,11 @@
 ---
 layout: archive
-title: "Beseech"
+title: "Research"
 permalink: /research/
 author_profile: true
 ---
-Anything?
 
-[my Google Scholar profile]({{ author.googlescholar }})
-[also my GS profile](http://scholar.google.com/citations?user=mwB4cQoAAAAJ)
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{ author.googlescholar }}">my Google Scholar profile</a>.</u>
-{% endif %}
+You can also find my articles on my [Google Scholar profile](http://scholar.google.com/citations?user=mwB4cQoAAAAJ).
 
 {% include base_path %}
 
