@@ -220,7 +220,7 @@ defaults:
       path: ""
       type: research
     values:
-      layout: single
+      layout: single-papers
       author_profile: true
       share: true
       comments: true
@@ -229,7 +229,7 @@ defaults:
       path: ""
       type: workingpapers
     values:
-      layout: single
+      layout: single-papers
       author_profile: true
       share: true
       comments: true
