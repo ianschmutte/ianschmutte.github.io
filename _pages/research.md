@@ -10,5 +10,5 @@ You can also find my articles on my [Google Scholar profile](http://scholar.goog
 {% include base_path %}
 
 {% for post in site.research reversed %}
-  {% include archive-single.html %}
+  {% include archive-single-research.html %}
 {% endfor %}
