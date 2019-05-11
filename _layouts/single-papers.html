@@ -27,18 +27,20 @@ layout: default
                 <tr>
                     <td width="350">
                         <div align="left">
-                            {{ page.citation }}
-        
                             <p><strong>Resources</strong></p>
                             <ul>
                                 <li><a href={{ page.paperurl }} target="_blank" />Published
                                     version</a></li>
                                 <li><a href={{ page.preprinturl }} target="_blank" />Pre-print manuscript</a>
                                 </li>
+                                <li><a href={{ page.slideurl }} target="_blank" />Slides</a>
+                                </li>
                                 <li><a href={{ page.archiveurl }} />Replication
                                     materials</a></li>
                                 <li><a href={{ page.bibtexurl }} target="_blank" />BibTeX</a></li>
                             </ul>
+                        <p><strong>Suggested Citation</strong></p>
+                        {{ page.citation }}
                     </td>
         
                     <td width=350>
