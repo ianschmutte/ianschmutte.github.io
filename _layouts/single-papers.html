@@ -1,0 +1,55 @@
+---
+layout: default
+---
+
+{% include base_path %}
+
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% endif %}
+
+{% if page.url != "/" and site.breadcrumbs %}
+  {% unless paginator %}
+    {% include breadcrumbs.html %}
+  {% endunless %}
+{% endif %}
+
+<div id="main" role="main">
+  {% include sidebar.html %}
+
+            <header>
+                <h1>{{ post.title }}</h1>
+            </header>
+        
+            <table border="0" align="center">
+                <tr>
+                    <td width="350">
+                        <div align="left">
+                            {{ post.citation }}
+        
+                            <p><strong>Resources</strong></p>
+                            <ul>
+                                <li><a href={{ post.paperurl }} target="_blank" />Published
+                                    version</a></li>
+                                <li><a href={{ post.preprinturl }} target="_blank" />Pre-print manuscript</a>
+                                </li>
+                                <li><a href={{ post.archiveurl }} />Replication
+                                    materials</a></li>
+                                <li><a href={{ post.bibtexurl }} target="_blank" />BibTeX</a></li>
+                            </ul>
+                    </td>
+        
+                    <td width=350>
+                        <p>
+                            <img src={{ post.picloc }} alt={{ post.picalt }} width=350 />
+                        </p>
+                    </td>
+                </tr>
+            </table>
+
+            <section class="page__content" itemprop="text">
+                    {{ content }}
+
+            </section>
+
+</div>
