@@ -29,24 +29,40 @@ layout: default
                         <div align="left">
                             <p><strong>Resources</strong></p>
                             <ul>
+                                {% if page.paperurl %}
                                 <li><a href={{ page.paperurl }} target="_blank" />Published
                                     version</a></li>
+                                {% endif %}
+
+                                {% if page.preprinturl %}
                                 <li><a href={{ page.preprinturl }} target="_blank" />Pre-print manuscript</a>
                                 </li>
+                                {% endif %}
+
+                                {% if page.slideurl %}
                                 <li><a href={{ page.slideurl }} target="_blank" />Slides</a>
                                 </li>
+                                {% endif %}
+
+                                {% if page.archiveurl %}
                                 <li><a href={{ page.archiveurl }} />Replication
                                     materials</a></li>
+                                {% endif %}
+
+                                {% if page.bibtexurl %}
                                 <li><a href={{ page.bibtexurl }} target="_blank" />BibTeX</a></li>
+                                {% endif %}
                             </ul>
                         <p><strong>Suggested Citation</strong></p>
                         {{ page.citation }}
                     </td>
         
                     <td width=350>
+                        {% if page.picloc and page.picalt %}
                         <p>
                             <img src={{ page.picloc }} alt={{ page.picalt }} width=350 />
                         </p>
+                        {% endif %}
                     </td>
                 </tr>
             </table>
