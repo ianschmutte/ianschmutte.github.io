@@ -1,0 +1,80 @@
+---
+layout: default
+---
+
+{% include base_path %}
+
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% endif %}
+
+{% if page.url != "/" and site.breadcrumbs %}
+  {% unless paginator %}
+    {% include breadcrumbs.html %}
+  {% endunless %}
+{% endif %}
+
+<div id="main" role="main">
+  {% include sidebar.html %}
+
+    <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+        <div class="page__inner-wrap">
+            <header>
+                <h1>{{ page.title }}</h1>
+            </header>
+        
+            <table border="0" align="center">
+                <tr>
+                    <td width="350">
+                        <div align="left">
+                            <p><strong>Resources</strong></p>
+                            <ul>
+                                {% if page.paperurl %}
+                                <li><a href={{ page.paperurl }} target="_blank" />Published
+                                    version</a></li>
+                                {% endif %}
+
+                                {% if page.preprinturl %}
+                                <li><a href={{ page.preprinturl }} target="_blank" />Pre-print manuscript</a>
+                                </li>
+                                {% endif %}
+
+                                {% if page.slideurl %}
+                                <li><a href={{ page.slideurl }} target="_blank" />Slides</a>
+                                </li>
+                                {% endif %}
+
+                                {% if page.archiveurl %}
+                                <li><a href={{ page.archiveurl }} />Replication
+                                    materials</a></li>
+                                {% endif %}
+
+                                {% if page.bibtexurl %}
+                                <li><a href={{ page.bibtexurl }} target="_blank" />BibTeX</a></li>
+                                {% endif %}
+                            </ul>
+                        <p><strong>Suggested Citation</strong></p>
+                        {{ page.citation }}
+                    </td>
+        
+                    <td width=350>
+                        {% if page.picloc and page.picalt %}
+                        <p>
+                            <img src={{ page.picloc }} alt={{ page.picalt }} width=350 />
+                        </p>
+                        {% endif %}
+                    </td>
+                </tr>
+            </table>
+
+            <section class="page__content" itemprop="text">
+                    {{ content }}
+
+            </section>
+            
+            {% if page.share %}{% include social-share.html %}{% endif %}
+
+        </div>
+    </article>
+
+</div>
