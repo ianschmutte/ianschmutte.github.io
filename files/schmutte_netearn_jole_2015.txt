@@ -1,0 +1,15 @@
+@article{Schmutte:netearn:JOLE:2015,
+title = "Job Referral Networks and the Determination of Earnings in Local Labor Markets",
+journal = "Journal of Labor Economics",
+volume = "33",
+number = "1",
+pages = "1--32",
+year = "2015",
+author = "Ian M. Schmutte",
+keywords = "Social Interactions",
+keywords = "Informal Hiring Networks",
+keywords = "Wage Differentials",
+keywords = "Neighborhood Effects",
+abstract = "Despite their documented importance in the labor market, little is known about how workers use social networks to find jobs and their resulting effect on earnings. I use geographically detailed U.S. employer-employee data to infer the role of social networks in connecting workers to jobs in high-paying firms. To identify social interactions in job search, I exploit variation in social network quality within small neighborhoods. Workers are more likely to change jobs, and more likely to move to a higher-paying firm, when their neighbors are employed in high-paying firms. Furthermore, local referral networks help match high-ability workers to high-paying firms."
+}
+
