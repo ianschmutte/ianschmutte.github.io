@@ -15,6 +15,6 @@ author_profile: true
 
 ## Working Papers
 
-{% for post in site.workingpapers %}
+{% for post in site.workingpapers reversed %}
   {% include archive-single-research.html %}
 {% endfor %}

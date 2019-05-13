@@ -178,6 +178,9 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
+  workingpapers:
+    output: true
+    permalink: /:collection/:workingpapers/
   portfolio:
     output: true
     permalink: /:collection/:path/
