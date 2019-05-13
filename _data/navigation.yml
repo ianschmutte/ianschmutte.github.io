@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Research"
-    url: /research/
+    url: /research/s
 
   # - title: "Talks"
   #   url: /talks/    
@@ -16,7 +16,7 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /files/schmutte_curriculum_vitae.pdf
     
   # - title: "Guide"
   #   url: /markdown/
