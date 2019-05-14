@@ -1,6 +1,5 @@
 ---
 permalink: /
-layout: frontpage
 title: "Ian M. Schmutte"
 excerpt: "About me"
 author_profile: true
