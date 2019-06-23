@@ -143,6 +143,9 @@ exclude:
   - Rakefile
   - README
   - tmp
+  - vendor/
+  - Gemfile
+  - Gemfile.lock
 keep_files:
   - .git
   - .svn

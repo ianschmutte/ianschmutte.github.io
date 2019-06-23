@@ -8,15 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am Associate Professor in the Department of Economics in the Terry College of Business at the University of Georgia. I also hold an appointment as a research economist with the Center for Enterprise Dissemination at the U.S. Census Bureau, and am a fellow of the [Global Labor Organization](https://glabor.org/wp/) and the [Labor Dynamics Institute](https://www.ilr.cornell.edu/labor-dynamics-institute). My research focuses on how regulations and social institutions affect earnings and job mobility. I have studied job referral networks, compensating differentials, racial discrimination, the gender wage gap, and the effects of minimum wages on turnover. I also study data privacy, focusing on the trade-off between privacy and accuracy in the publication of official statistics.
+I am Associate Professor in the [Department of Economics in the Terry College of Business at the University of Georgia](http://www.terry.uga.edu/academics/offices/economics/). I also hold an appointment as a research economist with the Center for Enterprise Dissemination - Disclosure Avoidance at the U.S. Census Bureau, and am a fellow of the [Global Labor Organization](https://glabor.org/wp/) and the [Labor Dynamics Institute](https://www.ilr.cornell.edu/labor-dynamics-institute). My research focuses on how regulations and social institutions affect earnings and job mobility. I have studied job referral networks, compensating differentials, racial discrimination, the gender wage gap, and the effects of minimum wages on turnover. I also study data privacy, focusing on the trade-off between privacy and accuracy in the publication of official statistics.
 
-<script type="text/javascript" language="JavaScript">
-var sc_project=2371178; 
-var sc_invisible=0; 
-var sc_partition=22; 
-var sc_security="03c588ec"; 
-</script>
-<script type="text/javascript" language="JavaScript" src="http://www.statcounter.com/counter/counter.js"></script>
-<noscript>
-<a href="http://www.statcounter.com/" target="_blank"><img  src="http://c23.statcounter.com/counter.php?sc_project=2371178&java=0&security=03c588ec&invisible=0" alt="hit counter code" border="0" /></a>
-</noscript>
+## Recent News
+
+* Registration is now open for "[Models of Linked Employer-Employee Data](https://labordynamicsinstitute.github.io/leed-conference-2019/)," a conference on the occasion of the 20th anniversary of the publication of "[High Wage Workers and High Wage Firms](https://www.jstor.org/stable/2999586)".
+![Image for LEED Conference](/images/leed_conference.png "Logo Title Text 1")
+
+* "[Modeling Endogenous Mobility in Earnings Determination](/research/2019-06-22-endmob)" is now available in print. An ungated eprint is available [here](https://www.tandfonline.com/eprint/MbWRiUx3fGjBZTrHVAuc/full?target=10.1080/07350015.2017.1356727). 
