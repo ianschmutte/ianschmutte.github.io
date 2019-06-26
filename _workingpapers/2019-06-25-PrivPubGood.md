@@ -11,7 +11,7 @@ preprinturl: 'https://arxiv.org/abs/1906.09353'
 # picloc: 
 # picalt: 
 bibtexurl: 
-citation: 'Abowd, John M., Ian M. Schmutte, William Sexton, and Lars Vilhuber (2019). &quot;Suboptimal Provision of Privacy and Statistical Accuracy When They are Public Goods.'
+citation: 'Abowd, John M., Ian M. Schmutte, William Sexton, and Lars Vilhuber (2019). &quot;Suboptimal Provision of Privacy and Statistical Accuracy When They are Public Goods.&quot;'
 ---
 
 
