@@ -15,6 +15,11 @@ I am Associate Professor in the [Department of Economics in the Terry College of
 * Registration is now open for "[Models of Linked Employer-Employee Data](https://labordynamicsinstitute.github.io/leed-conference-2019/)," a conference on the occasion of the 20th anniversary of the publication of "[High Wage Workers and High Wage Firms](https://www.jstor.org/stable/2999586)".
 ![Image for LEED Conference](/images/leed_conference.png "Logo Title Text 1")
 
+* *New working paper!* "[Building a Productive Workforce: The Role of Structured Management Practices](/workingpapers/2019-08-13-MGMT)".
+
+* I'm proud to have received an Excellence in Reviewing certificate for the journal *Labour Economics* in 2018. This award is given to the top 10 reviewers in 2018.
+![Labour Economics Excellence in Reviewing certificate](/images/labour_econ_referee_certificate_2018.png "Text")
+
 * Syllabi for my Fall 2019 courses are now available on the [teaching](/teaching/) page.
 
 * "[Modeling Endogenous Mobility in Earnings Determination](/research/2019-06-22-endmob)" is now available in print. An ungated eprint is available [here](https://www.tandfonline.com/eprint/MbWRiUx3fGjBZTrHVAuc/full?target=10.1080/07350015.2017.1356727). 
