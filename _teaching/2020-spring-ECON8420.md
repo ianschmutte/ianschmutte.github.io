@@ -9,4 +9,4 @@ date: 2020-01-03
 
 * W  9:05-11:30
 * Benson C400
-* [Syllabus (in progress)](/files/ECON8420_2020Sp_schmutte.pdf)
+* [Syllabus](/files/ECON8420_2020Sp_schmutte.pdf)
