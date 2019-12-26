@@ -9,7 +9,7 @@ date: 2020-01-02
 
 * W 3:30-4:30pm
 * Benson C101
-* [Syllabus (from last semester)](/files/ECON5900_Research_Group_Fa2019.pdf)
+* [Syllabus](/files/ECON5900_Research_Group_Sp2020.pdf)
 * [Senior thesis handbook](/files/SeniorThesisHandbook.pdf)
 * [Slack channel](https://ugaeconsenior-eee6718.slack.com)
 
@@ -31,8 +31,4 @@ date: 2020-01-02
 ### Due Wednesday 15 January
 
 * Read the [Senior thesis handbook](/files/SeniorThesisHandbook.pdf)
-* Develop 3-5 specific research questions. For each question, write a 1-page overview that includes
-  * A "yes or no" research question, clearly stated
-  * A description of why it would be interesting to one of the faculty advisers
-  * A list of three or more articles in academic journals directly related to your question
-  * One or two potential sources of data or outside information that would be useful in answering the question.
+* Develop 3-5 specific research questions. For each question write a brief one-page summary. Your summary should include the details [described here](https://docs.google.com/document/d/1eXqiV2HSCnrptEajU9cy8lCa6xQLvfHJ4YUOdC699eU/edit?usp=sharing).
