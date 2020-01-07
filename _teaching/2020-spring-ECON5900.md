@@ -22,11 +22,12 @@ date: 2020-01-02
 ### Due Friday 11 October
 
 * Submit a draft of your research method and data description following [these guidelines](/files/Methodology_Assignment.pdf). Note: this assignment must be submitted on time. Late assignments will incur a penalty of one letter grade off your course grade, per the syllabus policy.
+-->
 
-### Due Friday 6 September
+### Due Friday 31 January
 
-* Submit a research proposal following [these guidelines](/files/Proposal.pdf). -->
-<!-- Note: this assignment must be submitted on time. Late assignments will incur a penalty of one letter grade off your course grade, per the syllabus policy. -->
+* Submit a research proposal following [these guidelines](/files/Proposal.pdf). 
+Note: this assignment must be submitted on time. Late assignments will incur a penalty of one letter grade off your course grade, per the syllabus policy.
 
 ### Due Monday 13 January
 
