@@ -28,7 +28,7 @@ date: 2020-01-02
 * Submit a research proposal following [these guidelines](/files/Proposal.pdf). -->
 <!-- Note: this assignment must be submitted on time. Late assignments will incur a penalty of one letter grade off your course grade, per the syllabus policy. -->
 
-### Due Wednesday 15 January
+### Due Monday 13 January
 
 * Read the [Senior thesis handbook](/files/SeniorThesisHandbook.pdf)
-* Develop 3-5 specific research questions. For each question write a brief one-page summary. Your summary should include the details [described here](https://docs.google.com/document/d/1eXqiV2HSCnrptEajU9cy8lCa6xQLvfHJ4YUOdC699eU/edit?usp=sharing).
+* Develop 3-5 specific research questions. For each question write a brief one-page summary. Your summary should include the details [described here](https://docs.google.com/document/d/1eXqiV2HSCnrptEajU9cy8lCa6xQLvfHJ4YUOdC699eU/edit?usp=sharing). Email these to the course TA.
