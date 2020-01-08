@@ -31,6 +31,6 @@ Note: this assignment must be submitted on time. Late assignments will incur a p
 
 ### Due Monday 13 January
 
-* Join the [Slack channel](https://ugaeconsenior-eee6718.slack.com)
+* Join the [Slack channel](https://ugaeconsenior-eee6718.slack.com) using [this link](https://join.slack.com/t/ugaeconsenior-eee6718/shared_invite/enQtOTAwODk2ODUyOTY2LWIzY2QwNDA5MWYyMzU0ZGFiZTMzYzU4ZjYwZWU1MWQ4NDIwMjFjNzk5NWZkYmY4Yzg3NmM0NjcwODM0NjI4ZWQ)
 * Read the [Senior thesis handbook](/files/SeniorThesisHandbook.pdf)
 * Develop 3-5 specific research questions. For each question write a brief one-page summary. Your summary should include the details [described here](https://docs.google.com/document/d/1eXqiV2HSCnrptEajU9cy8lCa6xQLvfHJ4YUOdC699eU/edit?usp=sharing). Email these to the course TA.
