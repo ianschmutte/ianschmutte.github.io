@@ -17,7 +17,7 @@ I am an Associate Professor in the [Department of Economics in the Terry College
 
 ## Recent News
 
-* Accepted for publication at *Management Science* "[Building a Productive Workforce: The Role of Structured Management Practices](/research/2019-08-13-MGMT)"
+* Accepted for publication at *Management Science* ["Building a Productive Workforce: The Role of Structured Management Practices"](/research/2019-08-13-MGMT)
 
 * Dan Kifer and I gave the [Summer Institute 2020 Methods Lectures](https://www.nber.org/econometrics_minicourse_2020/) on "Differential Privacy for Economists". Video and slides are available, along with discussions by Danny Goroff and Frauke Kreuter.
 
