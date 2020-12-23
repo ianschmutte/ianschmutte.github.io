@@ -22,9 +22,9 @@ All assignments will be posted in the class [Slack channel](https://ugaeconsenio
 
 -->
 
-### Due Wednesday October 14
+<!-- ### Due Wednesday October 14
 
-* Submit a draft of your research method and data description following [these guidelines](/files/Methodology_Assignment.pdf). Note: this assignment must be submitted on time. Late assignments will incur a penalty of one letter grade off your course grade, per the syllabus policy.
+* Submit a draft of your research method and data description following [these guidelines](/files/Methodology_Assignment.pdf). Note: this assignment must be submitted on time. Late assignments will incur a penalty of one letter grade off your course grade, per the syllabus policy. -->
 
 ### Due Wednesday 3 February
 
