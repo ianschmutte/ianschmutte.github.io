@@ -17,5 +17,5 @@ agencies do not always report the methods they use to protect confidentiality, w
 also characterize settings in which statistical disclosure limitation methods are
 discoverable; that is, they can be learned from the released data. We conclude
 with advice for researchers, journal editors, and statistical agencies.},
-  url={http://www.brookings.edu/about/projects/bpea/papers/2015/economic-analysis-statistical-disclosure-limitation}
+  url={https://www.brookings.edu/about/projects/bpea/papers/2015/economic-analysis-statistical-disclosure-limitation}
 }
