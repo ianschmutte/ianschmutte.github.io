@@ -14,7 +14,7 @@ date: 2021-01-02
 
 ## Assignments
 
-All assignments will be posted in the class [Slack channel](https://ugaeconsenior-eee6718.slack.com). Check there for the most up-to-date assignment details.
+All assignments will be posted in the [Course Slack workspace](https://ugaeconsenior-eee6718.slack.com). Check the ```#course-documents``` channel for the most up-to-date assignment details.
 
 <!-- ### Due Friday 8 November
 
@@ -31,8 +31,8 @@ All assignments will be posted in the class [Slack channel](https://ugaeconsenio
 * Submit a draft research proposal following [these guidelines](/files/Proposal.pdf). 
 Note: this assignment must be submitted on time. Late assignments will incur a penalty of one letter grade off your course grade, per the syllabus policy.
 
-### Due Wednesday 20 January
+### Due Tuesday 19 January
 
-* Join the [Slack channel](https://ugaeconsenior-eee6718.slack.com) using [this link](https://join.slack.com/t/ugaeconsenior-eee6718/shared_invite/zt-gfpba6dy-ZPyUhCCb2POnK0ibEak8Cg)
+* Join the [Course Slack workspace](https://ugaeconsenior-eee6718.slack.com) using [this link](https://join.slack.com/t/ugaeconsenior-eee6718/shared_invite/zt-kt0vomwy-6_97KU7YONU04INGcHnpqQ)
 * Read the [Senior thesis handbook](/files/SeniorThesisHandbook.pdf)
-* Develop 3-5 specific research questions. For each question write a brief one-page summary. Your summary should include the details [described here](https://docs.google.com/document/d/1eXqiV2HSCnrptEajU9cy8lCa6xQLvfHJ4YUOdC699eU/edit?usp=sharing). Email these to the course TA by Tuesday January 19.
+* Develop 3-5 specific research questions. For each question write a brief one-page summary. Your summary should include the details [described here](https://docs.google.com/document/d/1eXqiV2HSCnrptEajU9cy8lCa6xQLvfHJ4YUOdC699eU/edit?usp=sharing). Please post your topic ideas as a thread in the ```#research-topics``` channel on Slack.
