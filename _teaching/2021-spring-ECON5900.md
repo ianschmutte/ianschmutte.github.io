@@ -7,7 +7,8 @@ venue: "University of Georgia"
 date: 2021-01-02
 ---
 
-* W 5:20-6:10pm
+* W 5:20-6:10pm. **All group meetings will be on Zoom**
+* [Zoom](https://zoom.us/j/95702388319)
 * [Syllabus](/files/ECON5900_Research_Group_Sp2021.pdf)
 * [Senior thesis handbook](/files/SeniorThesisHandbook.pdf)
 * [Slack channel](https://ugaeconsenior-eee6718.slack.com)
