@@ -17,15 +17,13 @@ date: 2021-01-02
 
 All assignments will be posted in the [Course Slack workspace](https://ugaeconsenior-eee6718.slack.com). Check the ```#course-documents``` channel for the most up-to-date assignment details.
 
-<!-- ### Due Friday 8 November
+### Due Friday 8 November
 
 * Submit a *rough draft* of your thesis by 5pm. Subsequently, you will be responsible for providing detailed comments on two of your classmates' drafts. The guidelines for this assignment [are here](/files/RoughDraft_Assignment.pdf).
 
--->
+### Due Wednesday 3 March
 
-<!-- ### Due Wednesday October 14
-
-* Submit a draft of your research method and data description following [these guidelines](/files/Methodology_Assignment.pdf). Note: this assignment must be submitted on time. Late assignments will incur a penalty of one letter grade off your course grade, per the syllabus policy. -->
+* Submit a draft of your research method and data description following [these guidelines](/files/FinalProposal_Assignment.pdf). Note: this assignment must be submitted on time. Late assignments will incur a penalty of one letter grade off your course grade, per the syllabus policy.
 
 ### Due Wednesday 3 February
 
