@@ -10,15 +10,15 @@ redirect_from:
 
 I am an Associate Professor in the [Department of Economics in the Terry College of Business at the University of Georgia](http://www.terry.uga.edu/academics/offices/economics/). I also hold an appointment as a research economist with the Center for Enterprise Dissemination - Disclosure Avoidance at the U.S. Census Bureau, and am a fellow of the [Global Labor Organization](https://glabor.org/wp/) and the [Labor Dynamics Institute](https://www.ilr.cornell.edu/labor-dynamics-institute). My research focuses on how regulations and social institutions affect earnings and job mobility. I have studied job referral networks, compensating differentials, racial discrimination, the gender wage gap, and the effects of minimum wages on turnover. I also study data privacy, focusing on the trade-off between privacy and accuracy in the publication of official statistics.
 
-## Office Meetings
+<!-- ## Office Meetings
 
-* I am available for meetings via Zoom. If you would like a meeting, please schedule one [using this link](https://calendly.com/schmutte/office-hours).
+* I am available for meetings via Zoom. If you would like a meeting, please schedule one [using this link](https://calendly.com/schmutte/office-hours). -->
 
-<!-- ## Recent News
+<!-- ## Recent News -->
 
-* Accepted for publication at *Management Science* ["Building a Productive Workforce: The Role of Structured Management Practices"](/research/2019-08-13-MGMT)
+<!-- * Accepted for publication at *Management Science* ["Building a Productive Workforce: The Role of Structured Management Practices"](/research/2019-08-13-MGMT) -->
 
-* Dan Kifer and I gave the [Summer Institute 2020 Methods Lectures](https://www.nber.org/econometrics_minicourse_2020/) on "Differential Privacy for Economists". Video and slides are available, along with discussions by Danny Goroff and Frauke Kreuter. -->
+<!-- * Dan Kifer and I gave the [Summer Institute 2020 Methods Lectures](https://www.nber.org/econometrics_minicourse_2020/) on "Differential Privacy for Economists". Video and slides are available, along with discussions by Danny Goroff and Frauke Kreuter. -->
 
 <!-- * Please submit your paper for a special issue of the **Journal of Econometrics** on "Models of matched employer-employee data". Deadline May 15, 2020. David Card, Lars Vihuber and Ian Schmutte Guest AEs. Theme code [Match]. -->
 
