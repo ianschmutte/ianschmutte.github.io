@@ -1,11 +1,9 @@
 ---
-layout: archive
+layout: single
 title: "Grad. Student Info"
 permalink: /gradcoord/
 author_profile: true
 ---
-
-{% include base_path %}
 
 This page includes information of interest to current and prospective PhD and MA students in Economics at University of Georgia. 
 
