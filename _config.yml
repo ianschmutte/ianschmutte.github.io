@@ -184,6 +184,9 @@ collections:
   workingpapers:
     output: true
     permalink: /:collection/:workingpapers/
+  gradcoord:
+    output: true
+    permalink: /:collection/:gradcoord/
   portfolio:
     output: true
     permalink: /:collection/:path/
