@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-## Working Papers
+<!-- ## Working Papers -->
 
 {% for post in site.workingpapers reversed %}
   {% include archive-single-research.html %}
