@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: "Publications"
 permalink: /research/
 author_profile: true
 ---
@@ -13,8 +13,8 @@ author_profile: true
   {% include archive-single-research.html %}
 {% endfor %}
 
-## Working Papers
+<!-- ## Working Papers
 
 {% for post in site.workingpapers reversed %}
   {% include archive-single-research.html %}
-{% endfor %}
+{% endfor %} -->
