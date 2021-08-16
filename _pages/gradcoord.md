@@ -1,9 +1,11 @@
 ---
-layout: single
+layout: archive
 title: "Grad. Student Info"
 permalink: /gradcoord/
 author_profile: true
 ---
+
+{% include base_path %}
 
 This page includes information of interest to current and prospective PhD and MA students in Economics at University of Georgia. 
 
@@ -32,9 +34,3 @@ If you are thinking about applying to one of our graduate programs, here are res
 * All applicants whose first language is not English must submit scores from the TOEFL, IELTS, or Duolingo taken during the last two years. Per Graduate School guidelines. If you have completed a degree in an English-speaking country in the last two years, you may request a waiver of the test requirement from the graduate school. English-language instruction is an important part of our PhD program, and we generally require non-native speakers to have a very good speak-score on TOEFL or IELTS. Exceptions are considered on a case-by-case basis during the admissions review.
 
 * Unfortunately, we cannot waive application fees.
-
-
-
-
-<!-- ## Working Papers -->
-

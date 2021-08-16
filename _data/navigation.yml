@@ -13,7 +13,7 @@ main:
     url: /teaching/    
 
   - title: "Grad Student Info"
-  - url: /gradcoord/
+    url: /gradcoord/
     
   # - title: "Portfolio"
   #   url: /portfolio/
