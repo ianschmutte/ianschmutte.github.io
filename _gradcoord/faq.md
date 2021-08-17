@@ -11,7 +11,7 @@ author_profile: true
 
 * Your first point of contact for the AB/MA program should be the Academic Advisor for Economics. You can [email them here](mailto://econua@uga.edu).
 
-* UGA does not offer a stand-alone master's program. Students already pursuing a bachelor's degree can apply for our [AB/MA degree](https://www.terry.uga.edu/economics/prospective-ab-ma.php) through the [Double Dawgs program](http://doubledawgs.uga.edu/). However, we only admit external students into our PhD program.
+* UGA does not offer a stand-alone master's program. Students already pursuing a bachelor's degree can apply for our [AB/MA degree](https://www.terry.uga.edu/economics/prospective-ab-ma.php) through the [Double Dawgs program](https://doubledawgs.uga.edu/). However, we only admit external students into our PhD program.
 
 ### The PhD Program
 
