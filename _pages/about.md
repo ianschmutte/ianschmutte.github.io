@@ -10,9 +10,12 @@ redirect_from:
 
 I am an Associate Professor in the [Department of Economics in the Terry College of Business at the University of Georgia](https://www.terry.uga.edu/academics/offices/economics/). I also hold an appointment as a research economist with the Center for Enterprise Dissemination - Disclosure Avoidance at the U.S. Census Bureau, and am a fellow of the [Global Labor Organization](https://glabor.org/wp/) and the [Labor Dynamics Institute](https://www.ilr.cornell.edu/labor-dynamics-institute). My research focuses on how regulations and social institutions affect earnings and job mobility. I have studied job referral networks, compensating differentials, racial discrimination, the gender wage gap, and the effects of minimum wages on turnover. I also study data privacy, focusing on the trade-off between privacy and accuracy in the publication of official statistics.
 
-<!-- ## Office Meetings
+## Meetings
 
-* I am available for meetings via Zoom. If you would like a meeting, please schedule one [using this link](https://calendly.com/schmutte/office-hours). -->
+I am available this semester for meetings over Zoom and in my office at Amos Hall B420
+
+* You can [use this link](https://calendly.com/schmutte/office-hours) to set a meeting with me on any topic for any reason.
+* If you are a current PhD or AB/MA student, please [use this link](https://calendly.com/schmutte/30min) instead.
 
 <!-- ## Recent News -->
 
