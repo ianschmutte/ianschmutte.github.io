@@ -11,7 +11,7 @@ This page includes information of interest to current and prospective PhD and MA
 
 * [Official PhD Program Website](https://www.terry.uga.edu/economics/phd/index.php)
 * [Information on the AB/MA Program](https://www.terry.uga.edu/economics/prospective-ab-ma.php)
-* [UGA Economics PhD Student Handbook](/files/graduatestudenthandbook)
+* [UGA Economics PhD Student Handbook](/files/graduatestudenthandbook.pdf)
 * [UGA Graduate School](https://grad.uga.edu/)
 
 ## For Prospective Students
