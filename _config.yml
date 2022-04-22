@@ -181,6 +181,9 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
+  selected:
+    output: true
+    permalink: /:collection/:selected/
   workingpapers:
     output: true
     permalink: /:collection/:workingpapers/
