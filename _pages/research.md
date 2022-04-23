@@ -7,13 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-## Selected Recent Papers
+## Selected Peer-Reviewed Papers
 
 {% for post in site.selected reversed %}
   {% include archive-single-research.html %}
 {% endfor %}
 
-## Publications
+## Other Publications
 
 {% for post in site.research reversed %}
   {% include archive-single-research.html %}
