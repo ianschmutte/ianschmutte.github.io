@@ -1,8 +1,8 @@
 ---
 title: "Introductory Readings in Formal Privacy for Economists"
-collection: workingpapers
-permalink: /workingpapers/2019-05-02-formalprivacy
-date: 2019-05-02
+collection: research
+permalink: /research/2019-05-02-formalprivacy
+date: 2010-05-02
 venue: 'Working Paper'
 # paperurl: 
 preprinturl: 'https://labordynamicsinstitute.github.io/privacy-bibliography/'
@@ -13,8 +13,6 @@ preprinturl: 'https://labordynamicsinstitute.github.io/privacy-bibliography/'
 bibtexurl: '/files/formalprivacy_zenodo_2019.bib'
 citation: 'Abowd, John M., Ian M. Schmutte, William Sexton, and Lars Vilhuber (2019). &quot;Introductory Readings in Formal Privacy for Economists.'
 ---
-
-
 
 ## Abstract
 
