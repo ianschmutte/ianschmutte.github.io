@@ -1,7 +1,7 @@
 ---
 title: "An Interview with John M. Abowd"
 collection: research
-permalink: /research/2022-02-01-JMAinterview.md
+permalink: /research/2022-02-01-JMAinterview
 date: 2022-02-01
 venue: 'International Statistical Review'
 paperurl: 'https://doi.org/10.1111/insr.12489'
@@ -13,9 +13,6 @@ picloc: '/images/research/johnlarsrio.png'
 # bibtexurl: '/files/LSW_CESWP_20-32.bib'
 citation: 'Schmutte, Ian M. and Lars Vilhuber (2022) &quot;An Interview with John M. Abowd.&quot; <i>International Statistical Review</i>, 90(1), pp.1--40.'
 ---
-
-
-
 
 ## Abstract
 
