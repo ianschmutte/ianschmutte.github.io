@@ -183,13 +183,13 @@ collections:
     permalink: /:collection/:path/
   selected:
     output: true
-    permalink: /:collection/:selected/
+    permalink: /:collection/:path/
   workingpapers:
     output: true
-    permalink: /:collection/:workingpapers/
+    permalink: /:collection/:path/
   gradcoord:
     output: true
-    permalink: /:collection/:gradcoord/
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -231,6 +231,15 @@ defaults:
   - scope:
       path: ""
       type: research
+    values:
+      layout: single-papers
+      author_profile: true
+      share: true
+      comments: true
+  # _selected
+  - scope:
+      path: ""
+      type: selected
     values:
       layout: single-papers
       author_profile: true

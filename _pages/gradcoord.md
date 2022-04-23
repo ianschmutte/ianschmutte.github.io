@@ -5,8 +5,6 @@ permalink: /gradcoord/
 author_profile: true
 ---
 
-{% include base_path %}
-
 This page includes information of interest to current and prospective PhD and MA students in Economics at University of Georgia. 
 
 * [Official PhD Program Website](https://www.terry.uga.edu/economics/phd/index.php)
