@@ -236,6 +236,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _selected
+  - scope:
+      path: ""
+      type: selected
+    values:
+      layout: single-papers
+      author_profile: true
+      share: true
+      comments: true
   # _workingpapers
   - scope:
       path: ""
