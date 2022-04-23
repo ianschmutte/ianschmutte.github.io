@@ -5,8 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-{% include base_path %}
-
 ## Selected Peer-Reviewed Papers
 
 {% for post in site.selected reversed %}
