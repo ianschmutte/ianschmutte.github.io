@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Grad. Student Info"
+title: "Information for Graduate Students"
 permalink: /gradcoord/
 author_profile: true
 ---
