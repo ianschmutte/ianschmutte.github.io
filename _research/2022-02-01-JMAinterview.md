@@ -8,7 +8,7 @@ paperurl: 'https://doi.org/10.1111/insr.12489'
 # preprinturl: 'https://ideas.repec.org/p/cen/wpaper/20-32.html'
 # slideurl: 
 # archiveurl: 
-picloc: '/images/research/johnlarsrio.png'
+picloc: '/images/research/johnlarsrio.jpg'
 # picalt: '' 
 # bibtexurl: '/files/LSW_CESWP_20-32.bib'
 citation: 'Schmutte, Ian M. and Lars Vilhuber (2022) &quot;An Interview with John M. Abowd.&quot; <i>International Statistical Review</i>, 90(1), pp.1--40.'
