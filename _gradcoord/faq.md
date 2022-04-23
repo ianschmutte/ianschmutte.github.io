@@ -25,7 +25,7 @@ author_profile: true
 
 * There is no official GRE score cutoff for admission to the PhD program at UGA. However, competitive applicants generally have a score above the 95th percentile on the quantitative portion. 
 
-* All applicants whose first language is not English must submit scores from the TOEFL, IELTS, or Duolingo taken during the last two years. Per [Graduate School guidelines](http://grad.uga.edu/index.php/prospective-students/international-application-information/international-supplement/english-language-proficiency-requirement/), if you have completed a degree in an English-speaking country in the last two years, you may request a waiver of the test requirement from the graduate school. English-language instruction is an important component of our PhD program, and we generally require non-native speakers to have a very good speak-score on TOEFL or IELTS. Exceptions are considered on a case-by-case basis during the admissions review.
+* All applicants whose first language is not English must submit scores from the TOEFL, IELTS, or Duolingo taken during the last two years. Per [Graduate School guidelines](https://grad.uga.edu/index.php/prospective-students/international-application-information/international-supplement/english-language-proficiency-requirement/), if you have completed a degree in an English-speaking country in the last two years, you may request a waiver of the test requirement from the graduate school. English-language instruction is an important component of our PhD program, and we generally require non-native speakers to have a very good speak-score on TOEFL or IELTS. Exceptions are considered on a case-by-case basis during the admissions review.
 
 * Unfortunately, we cannot waive application fees.
 
