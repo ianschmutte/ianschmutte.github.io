@@ -17,11 +17,11 @@ I am available this semester for meetings over Zoom and in my office at Amos Hal
 * You can [use this link](https://calendly.com/schmutte/office-hours) to set a meeting with me on any topic for any reason.
 * If you are a current PhD or AB/MA student, please [use this link](https://calendly.com/schmutte/30min) instead. -->
 
-## Recent News
+<!--## Recent News
 
 * *April 23, 2022* I will be presenting ``[The Dynamics of Referral Hiring and Racial Inequality: Evidence from Brazil](/workingpapers/2021-08-13-raceref)'' at the [Society of Labor Economists Annual Meeting](https://www.sole-jole.org/upcoming-meeting), May 6-7.
 
-* *April 6, 2022* **Updated Working Paper:** Nathan Yoder and I have released a new version of ``[Information Design for Differential Privacy.](/workingpapers/2021-03-27-IDDP)''
+* *April 6, 2022* **Updated Working Paper:** Nathan Yoder and I have released a new version of ``[Information Design for Differential Privacy.](/workingpapers/2021-03-27-IDDP)'' -->
 
 <!-- * Accepted for publication at *Management Science* ["Building a Productive Workforce: The Role of Structured Management Practices"](/research/2019-08-13-MGMT) -->
 
