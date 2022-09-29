@@ -4,14 +4,14 @@ collection: research
 permalink: /research/2022-03-01-c19reopen
 date: 2022-03-01
 venue: 'Contemporary Economic Policy'
-paperurl: https://doi.org/10.1111/coep.12582
+paperurl: 'https://doi.org/10.1111/coep.12582'
 preprinturl: 'https://www.nber.org/papers/w27280'
 # slideurl: 
 # archiveurl: 
-picloc: '' 
+picloc: '/images/research/johnlarsrio.jpg' 
 # picalt: 
 bibtexurl: '/files/c19reopen.bib'
-citation: 'Gupta, S., Montenovo, L., Nguyen, T., Lozano-Rojas, F., Schmutte, I., Simon, K. et al. (2022) "Effects of social distancing policy on labor market outcomes." <i>Contemporary Economic Policy</i>, 1– 28.'
+citation: 'Gupta, S., Montenovo, L., Nguyen, T., Lozano-Rojas, F., Schmutte, I., Simon, K. et al. (2022) &quot;Effects of social distancing policy on labor market outcomes.&quot; <i>Contemporary Economic Policy</i>, pp. 1–28.'
 ---
 
 ## Abstract
