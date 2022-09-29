@@ -1,19 +1,19 @@
 ---
-title: "Effects of Social Distancing Policy on Labor Market Outcomes"
+title: "Determinants of Disparities in Covid-19 Job Losses"
 collection: research
-permalink: /research/2022-03-01-c19reopen
-date: 2022-03-01
-venue: 'Contemporary Economic Policy'
-paperurl: 'https://doi.org/10.1111/coep.12582'
-preprinturl: 'https://www.nber.org/papers/w27280'
+permalink: /research/2021-09-25-c19disp
+date: 2021-09-25
+venue: 'Demography'
+paperurl: https://doi.org/10.1215/00703370-9961471
+preprinturl: 'https://www.nber.org/papers/w27132'
 # slideurl: 
 # archiveurl: 
-picloc: '/images/research/johnlarsrio.jpg' 
-# picalt: 
-bibtexurl: '/files/c19reopen.bib'
-citation: 'Gupta, S., Montenovo, L., Nguyen, T., Lozano-Rojas, F., Schmutte, I., Simon, K. et al. (2022) &quot;Effects of social distancing policy on labor market outcomes.&quot; <i>Contemporary Economic Policy</i>, pp. 1–28.'
+picloc: '/images/research/c19disp-f.png'
+picalt: 'Sources of disparities in job loss between February and May 2020' 
+bibtexurl: '/files/c19disp.bib'
+citation: 'Montenovo, L., Xiang J., Lozano Rojas, F., Schmutte, I.M., Simon, K.I., Weinberg, B.A., Wing, C., (2022) &quot;Determinants of Disparities in Covid-19 Job Losses.&quot; <i>Demography</i>, vol.59(3), pp. 827-855'
 ---
 
 ## Abstract
 
-US workers receive unemployment benefits if they lose their job, but not for reduced working hours. In alignment with the benefits incentives, we find that the labor market responded to COVID-19 and related closure-policies mostly on the extensive (12 pp outright job loss) margin. Exploiting timing variation in state closure-policies, difference-in-differences (DiD) estimates show, between March 12 and April 12, 2020, employment rate fell by 1.7 pp for every 10 extra days of state stay-at-home orders (SAH), with little effect on hours worked/earnings among those employed. Forty percentage of the unemployment was due to a nationwide shock, rest due to social-distancing policies, particularly among “non-essential” workers.
+We make several contributions to understanding the socio-demographic divide in early labor market responses to the U.S. COVID-19 epidemic and its policies, benchmarked against two previous recessions. First, monthly Current Population Survey (CPS) data show greater declines in employment in April and May 2020 (relative to February) for Hispanics, younger workers, and those with high school degrees and some college. Between April and May, all the demographic subgroups considered regained *some* employment. Re-employment in May was broadly proportional to the employment drop that occurred through April, except for Blacks who experienced a smaller rebound. Further, we show that compared to the 2001 recession and the Great Recession, employment losses in the early COVID-19 recession were smaller for groups with very low or very high (vs. medium) education. Second, we show that job loss was larger in occupations that require more interpersonal contact and that cannot be performed remotely. Third, we find pre-COVID-19 sorting of workers into occupations and industries along demographic lines can explain a sizeable portion of the gender, race, and ethnic gaps in new unemployment. For example, while women did suffer more job losses than men, their disproportionate pre-epidemic sorting into remote work compatible occupations shielded women from what would have been even larger employment losses during the epidemic. However, there remain substantial gaps in employment losses across groups that cannot be explained by socio-economic differences. We find some larger gaps in labor market impacts when we consider the "employed but absent from work" measure present in the CPS, in addition to the more traditional employment and unemployment measures. We conclude with a discussion of policy lessons and future research needs implied by the disparities in early labor market losses from the COVID-19 crisis.
