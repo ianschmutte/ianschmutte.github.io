@@ -7,9 +7,9 @@ author_profile: true
 
 This page includes information of interest to current and prospective PhD and MA students in Economics at University of Georgia. 
 
-* [Official PhD Program Website](https://www.terry.uga.edu/economics/phd/index.php)
-* [Information on the AB/MA Program](https://www.terry.uga.edu/economics/prospective-ab-ma.php)
-* [UGA Economics PhD Student Handbook](/files/graduatestudenthandbook.pdf)
+* [Official PhD Program Website](https://www.terry.uga.edu/economics/degrees/phd)
+* [Information on the AB/MA Program](https://www.terry.uga.edu/economics/degrees/prospective-ab-ma)
+* [UGA Economics PhD Student Handbook](https://www.terry.uga.edu/sites/default/files/inline-files/graduatestudenthandbook_012422.pdf)
 * [UGA Graduate School](https://grad.uga.edu/)
 
 ## For Prospective Students
