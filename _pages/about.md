@@ -8,9 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a Principal Economist with Amazon and Professor of Economics in the [John Munro Godfrey Sr. Department of Economics in the Terry College of Business at the University of Georgia](https://www.terry.uga.edu/academics/offices/economics/). a Fellow of the [Global Labor Organization](https://glabor.org/wp/), and a Research Fellow with the [Institute of Labor Economics (IZA)](https://www.iza.org/). Between 2017 and 2023 I also worked as a research economist with the Center for Enterprise Dissemination - Disclosure Avoidance at the U.S. Census Bureau. My academic research focuses on how regulations and social institutions affect earnings and job mobility. I have studied job referral networks, compensating differentials, racial discrimination, the gender wage gap, and the effects of minimum wages on turnover. I also study data privacy, focusing on the trade-off between privacy and accuracy in the publication of official statistics.
+I am a Principal Economist with People eXperience & Technology (PXTCS) at Amazon. Our team builds models and mechanisms to help address some of the most challening issues facing Amazon's corporate workforce. We work with customers to deliver science-driven guidance at scale, using a combination of economic theory, causal inference, structural modeling and machine learning tailored to the specific problem.
 
-*I am currently on leave from UGA*
+Prior to joining Amazon in March 2023, I was a Professor of Economics in the [John Munro Godfrey Sr. Department of Economics in the Terry College of Business at the University of Georgia](https://www.terry.uga.edu/academics/offices/economics/), where I still hold the position of Adjunct Professor. My academic research focuses on the econometric analysis of labor markets using linked employer-employee data and data privacy. As a labor economist, I focus on how regulations and social institutions affect earnings and job mobility. I have studied job referral networks, compensating differentials, racial discrimination, the gender wage gap, and the effects of minimum wages on turnover. In the realm of data privacy, I focus primarily on the implications of data protections on statistical inference and modeling trade-off between privacy and accuracy in the publication of official statistics.
+
+I am a Fellow of the [Global Labor Organization](https://glabor.org/wp/), and a Research Fellow with the [Institute of Labor Economics (IZA)](https://www.iza.org/). Between 2017 and 2023 I also worked as a research economist with the Center for Enterprise Dissemination - Disclosure Avoidance at the U.S. Census Bureau helping lead reseaarch to develop practical data privacy models for business data.
+
+
+
 <!-- * If you are a current PhD or AB/MA student, please [use this link](https://calendly.com/schmutte/30min) instead. -->
 
 <!--## Recent News
